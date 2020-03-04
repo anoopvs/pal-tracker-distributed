@@ -33,6 +33,7 @@ subprojects {
     group "io.pivotal.pal.tracker"
 
     apply plugin: "java"
+	apply plugin: 'eclipse'
     defaultTasks "clean", "build"
 
     repositories {
