@@ -169,6 +169,8 @@ jobs:
           echo "deb https://packages.cloudfoundry.org/debian stable main" | sudo tee /etc/apt/sources.list.d/cloudfoundry-cli.list
           sudo apt-get update
           sudo apt-get install cf-cli
+      - name: Change Permission
+        run: sudo chmod +x ./gradlew
       - name: Migate tracker-database
         run: |
           cf api "$CF_API_URL"
