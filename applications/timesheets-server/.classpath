@@ -150,6 +150,21 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot2/1.2.0/b1df6272c00b05c4c9066b5a3c361d6db21d8f14/resilience4j-spring-boot2-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot2/1.2.0/9dd95fc8838f31783a2eec5223151fbc4fe6901b/resilience4j-spring-boot2-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot-common/1.2.0/17e2d510ec8860b5f76a31fedceac440248360ae/resilience4j-spring-boot-common-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot-common/1.2.0/9ef830d1a2196c74d794f2a3aeb1d65e3434aa41/resilience4j-spring-boot-common-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-micrometer/1.2.0/d839ba6d81ee25294b75293195947717be11c495/resilience4j-micrometer-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-micrometer/1.2.0/d7298f4218ba10f450d0f63483869af4250c0d33/resilience4j-micrometer-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.10.0/46a8b1af336942d55acf0cd64d19ea9656b926be/log4j-to-slf4j-2.10.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.10.0/f7e631ccf49cfc0aefa4a2a728da7d374c05bd3c/log4j-to-slf4j-2.10.0.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
@@ -160,12 +175,67 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring/1.2.0/5cbb1deb0e41966d5d8edd14b647b9bbadbf7313/resilience4j-spring-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring/1.2.0/30595721d1d88c77fd028d56bf8e6e129d30c99a/resilience4j-spring-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-annotations/1.2.0/69a56f582cc9c48f78674f94b50bc3254ada4d8e/resilience4j-annotations-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-annotations/1.2.0/cef1988be714fb3cc6d228abab9e9327310fa1ed/resilience4j-annotations-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-consumer/1.2.0/2004bf0a91f13d7ca05758c16a3c65d5e712466c/resilience4j-consumer-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-consumer/1.2.0/6e176afaacde032c48057c92ebb921fb04e111b/resilience4j-consumer-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-framework-common/1.2.0/30d87484de644da71e9cce79322ca83e11fdcce9/resilience4j-framework-common-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-framework-common/1.2.0/eb5aa9943f385649168711cfa44b6cc1b4a2e286/resilience4j-framework-common-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circuitbreaker/1.2.0/9ac881121324ab88d9283637f90e3634bd429be2/resilience4j-circuitbreaker-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circuitbreaker/1.2.0/ebec09ed06111475434bc41d7b47bf51457e5d41/resilience4j-circuitbreaker-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-ratelimiter/1.2.0/569388e689267a431dd8cd93348f3f24476ff03f/resilience4j-ratelimiter-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-ratelimiter/1.2.0/fb5442fa97488aaad2d6d41650c566e02b6be3d0/resilience4j-ratelimiter-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-retry/1.2.0/56769e660348665c79a8493810483fe8738de8fb/resilience4j-retry-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-retry/1.2.0/e91c1495cf7217fd92a3c92066a9a0aa8526ede9/resilience4j-retry-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-bulkhead/1.2.0/859984296d76fd7927cb5f62de946b101883f56c/resilience4j-bulkhead-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-bulkhead/1.2.0/d8116c13c9a14e1244dabd4a34452d3808c29d7c/resilience4j-bulkhead-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-core/1.2.0/403787d7d76291a2c5b876d979b4c064fb7edf20/resilience4j-core-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-core/1.2.0/82dce5ba9f0cca3bbb694581abae0124ecceb828/resilience4j-core-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circularbuffer/1.2.0/21ea2c9a3960101b1e14d094a396209d2ed8b1ba/resilience4j-circularbuffer-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circularbuffer/1.2.0/197b8eb8103d38eb21f9460e21db7610003212d5/resilience4j-circularbuffer-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.13/3ba97a59f0badd1ccd7463fac4941e47137f9afb/mysql-connector-java-8.0.13-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.13/28015319e44ff50a8fee655e725fefc4990abeb1/mysql-connector-java-8.0.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.9.RELEASE/fcff687cafb399526da4863ec1843fc2f8aa61e7/spring-security-config-5.0.9.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.9.RELEASE/4cb7f117bb109edcb35193b72b4f578c20eff351/spring-security-config-5.0.9.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -181,6 +251,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.pivotal.spring.cloud/cloudfoundry-certificate-truster/1.0.1.RELEASE/e64e7b722037d5548dfa39bbf523317189ac8cdb/cloudfoundry-certificate-truster-1.0.1.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.pivotal.spring.cloud/cloudfoundry-certificate-truster/1.0.1.RELEASE/a2f11ea882e288e2afd19c0c4f230905d4844cb8/cloudfoundry-certificate-truster-1.0.1.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.9.RELEASE/2afedbaf0f4eb018c97cfc976c859a644a47b527/spring-security-core-5.0.9.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.9.RELEASE/d292ed9b140de0095263cb418dd89879ea629763/spring-security-core-5.0.9.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -250,37 +325,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.10.RELEASE/a0ae216597e6595b6397f784a8b1bafb7aaf7dbe/spring-jdbc-5.0.10.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.10.RELEASE/16ff6fad897185eb3fb01c58796de04b9b1e8c86/spring-jdbc-5.0.10.RELEASE.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/1cc7fb9eae0de50a229ad2d49e47edda401dab30/spring-cloud-netflix-ribbon-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/e4e1c06a1cb5d335404d5d016768b7a54726eb57/spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-metrics-event-stream/1.5.12/d546bb42a848ef6e55589c0845df8e6b0914c020/hystrix-metrics-event-stream-1.5.12-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-metrics-event-stream/1.5.12/3b3beae83ab5e8c10154c9e9581d7c210276e227/hystrix-metrics-event-stream-1.5.12.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-javanica/1.5.12/9904c19688f585a3726a5fed41d523ee726788fa/hystrix-javanica-1.5.12-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-javanica/1.5.12/5e4d888e0dba811e8ac3a9dbc8cbcc511734ace4/hystrix-javanica-1.5.12.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.5.12/b3ad4bd44c8f77df4615ea7750aa42d22ec755ed/hystrix-core-1.5.12-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.5.12/75379b6671fcaa9cec33035df684a68ec7741ca6/hystrix-core-1.5.12.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-reactive-streams/1.2.1/a20821f06d17f86ffe8361d3560d695b71f269cc/rxjava-reactive-streams-1.2.1-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-reactive-streams/1.2.1/dac56d021c092c34662943dae3ab1432542005/rxjava-reactive-streams-1.2.1.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.10.RELEASE/108554af6ccc431713cf051cd19a19966820b1bc/spring-aop-5.0.10.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.0.10.RELEASE/da65874f61aef9c25db794f493e50683346d3056/spring-aop-5.0.10.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.10.RELEASE/a0ae216597e6595b6397f784a8b1bafb7aaf7dbe/spring-jdbc-5.0.10.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.10.RELEASE/16ff6fad897185eb3fb01c58796de04b9b1e8c86/spring-jdbc-5.0.10.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -306,6 +356,31 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.10.RELEASE/3c2efb6162167eba179f797eea51d6dac43a87d/spring-core-5.0.10.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.10.RELEASE/cb270a60ceb573961588f511222984de64b4bc96/spring-core-5.0.10.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/1cc7fb9eae0de50a229ad2d49e47edda401dab30/spring-cloud-netflix-ribbon-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/e4e1c06a1cb5d335404d5d016768b7a54726eb57/spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-metrics-event-stream/1.5.12/d546bb42a848ef6e55589c0845df8e6b0914c020/hystrix-metrics-event-stream-1.5.12-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-metrics-event-stream/1.5.12/3b3beae83ab5e8c10154c9e9581d7c210276e227/hystrix-metrics-event-stream-1.5.12.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-javanica/1.5.12/9904c19688f585a3726a5fed41d523ee726788fa/hystrix-javanica-1.5.12-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-javanica/1.5.12/5e4d888e0dba811e8ac3a9dbc8cbcc511734ace4/hystrix-javanica-1.5.12.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.5.12/b3ad4bd44c8f77df4615ea7750aa42d22ec755ed/hystrix-core-1.5.12-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.5.12/75379b6671fcaa9cec33035df684a68ec7741ca6/hystrix-core-1.5.12.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-reactive-streams/1.2.1/a20821f06d17f86ffe8361d3560d695b71f269cc/rxjava-reactive-streams-1.2.1-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-reactive-streams/1.2.1/dac56d021c092c34662943dae3ab1432542005/rxjava-reactive-streams-1.2.1.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -390,6 +465,16 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.10.RELEASE/b2525baf5a7f563eeea02c592fd188577454e14f/spring-jcl-5.0.10.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.10.RELEASE/8d6a766be91ae5613f2828eb9f77739a47ceb357/spring-jcl-5.0.10.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.10.0/449a67da679841ddd8340f477e1501445999a562/vavr-0.10.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.10.0/c9f28385e6ca99f9c253c4eef879720663905329/vavr-0.10.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.5.RELEASE/d82b2d0012b18d466140a10ad1140aa89eba8ae4/spring-security-rsa-1.0.5.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.5.RELEASE/31bd1111ada2f455eb0f492ed09e39deda18ca99/spring-security-rsa-1.0.5.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
@@ -425,11 +510,6 @@
 			<attribute name="gradle_used_by_scope" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.10.RELEASE/b2525baf5a7f563eeea02c592fd188577454e14f/spring-jcl-5.0.10.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.10.RELEASE/8d6a766be91ae5613f2828eb9f77739a47ceb357/spring-jcl-5.0.10.RELEASE.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.ribbon/ribbon/2.2.5/c4346c9f63abcb36d650978aae54cf481ca6c8c9/ribbon-2.2.5-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.ribbon/ribbon/2.2.5/3f97c8acfc68c35012f00d10b9ac63fc8f48d790/ribbon-2.2.5.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
@@ -461,6 +541,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-connectors-core/2.0.3.RELEASE/62d26f2119e7f7004494c4a54388cd23c36b4f0e/spring-cloud-connectors-core-2.0.3.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-connectors-core/2.0.3.RELEASE/e46200f5f5ab26a37b88aa4b0c489b25ae65ed7b/spring-cloud-connectors-core-2.0.3.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr-match/0.10.0/b0920c2741c986951a96882f1e1be88d79876578/vavr-match-0.10.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr-match/0.10.0/2088877806b1c07514a134fa10d6a7ad480cac70/vavr-match-0.10.0.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -541,16 +626,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.0.9.RELEASE/b5bf7a5afa16536289550910efeef16f184a64ea/spring-security-web-5.0.9.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/5.0.9.RELEASE/653bd41b480d33c9122a00ed0342b21f9c853139/spring-security-web-5.0.9.RELEASE.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.9.RELEASE/fcff687cafb399526da4863ec1843fc2f8aa61e7/spring-security-config-5.0.9.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/5.0.9.RELEASE/4cb7f117bb109edcb35193b72b4f578c20eff351/spring-security-config-5.0.9.RELEASE.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.9.RELEASE/2afedbaf0f4eb018c97cfc976c859a644a47b527/spring-security-core-5.0.9.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.9.RELEASE/d292ed9b140de0095263cb418dd89879ea629763/spring-security-core-5.0.9.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>

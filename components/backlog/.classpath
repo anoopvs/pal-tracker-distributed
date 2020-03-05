@@ -32,7 +32,72 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot2/1.2.0/b1df6272c00b05c4c9066b5a3c361d6db21d8f14/resilience4j-spring-boot2-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot2/1.2.0/9dd95fc8838f31783a2eec5223151fbc4fe6901b/resilience4j-spring-boot2-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot-common/1.2.0/17e2d510ec8860b5f76a31fedceac440248360ae/resilience4j-spring-boot-common-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring-boot-common/1.2.0/9ef830d1a2196c74d794f2a3aeb1d65e3434aa41/resilience4j-spring-boot-common-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-micrometer/1.2.0/d839ba6d81ee25294b75293195947717be11c495/resilience4j-micrometer-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-micrometer/1.2.0/d7298f4218ba10f450d0f63483869af4250c0d33/resilience4j-micrometer-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring/1.2.0/5cbb1deb0e41966d5d8edd14b647b9bbadbf7313/resilience4j-spring-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-spring/1.2.0/30595721d1d88c77fd028d56bf8e6e129d30c99a/resilience4j-spring-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-annotations/1.2.0/69a56f582cc9c48f78674f94b50bc3254ada4d8e/resilience4j-annotations-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-annotations/1.2.0/cef1988be714fb3cc6d228abab9e9327310fa1ed/resilience4j-annotations-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-consumer/1.2.0/2004bf0a91f13d7ca05758c16a3c65d5e712466c/resilience4j-consumer-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-consumer/1.2.0/6e176afaacde032c48057c92ebb921fb04e111b/resilience4j-consumer-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-framework-common/1.2.0/30d87484de644da71e9cce79322ca83e11fdcce9/resilience4j-framework-common-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-framework-common/1.2.0/eb5aa9943f385649168711cfa44b6cc1b4a2e286/resilience4j-framework-common-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circuitbreaker/1.2.0/9ac881121324ab88d9283637f90e3634bd429be2/resilience4j-circuitbreaker-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circuitbreaker/1.2.0/ebec09ed06111475434bc41d7b47bf51457e5d41/resilience4j-circuitbreaker-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-ratelimiter/1.2.0/569388e689267a431dd8cd93348f3f24476ff03f/resilience4j-ratelimiter-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-ratelimiter/1.2.0/fb5442fa97488aaad2d6d41650c566e02b6be3d0/resilience4j-ratelimiter-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-retry/1.2.0/56769e660348665c79a8493810483fe8738de8fb/resilience4j-retry-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-retry/1.2.0/e91c1495cf7217fd92a3c92066a9a0aa8526ede9/resilience4j-retry-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-bulkhead/1.2.0/859984296d76fd7927cb5f62de946b101883f56c/resilience4j-bulkhead-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-bulkhead/1.2.0/d8116c13c9a14e1244dabd4a34452d3808c29d7c/resilience4j-bulkhead-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-core/1.2.0/403787d7d76291a2c5b876d979b4c064fb7edf20/resilience4j-core-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-core/1.2.0/82dce5ba9f0cca3bbb694581abae0124ecceb828/resilience4j-core-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circularbuffer/1.2.0/21ea2c9a3960101b1e14d094a396209d2ed8b1ba/resilience4j-circularbuffer-1.2.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.github.resilience4j/resilience4j-circularbuffer/1.2.0/197b8eb8103d38eb21f9460e21db7610003212d5/resilience4j-circularbuffer-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/21c84cdf9da108216b5e402611d4af479b60cb8/slf4j-api-1.7.26-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/77100a62c2e6f04b53977b9f541044d7d722693d/slf4j-api-1.7.26.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -82,12 +147,22 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.10.0/449a67da679841ddd8340f477e1501445999a562/vavr-0.10.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr/0.10.0/c9f28385e6ca99f9c253c4eef879720663905329/vavr-0.10.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.0.6.RELEASE/93f8bbddd82630cf9d916fc1c4299271f4358b0c/spring-security-crypto-5.0.6.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/5.0.6.RELEASE/4e22e00672ace9e160ff1e884d0b7c9605fbef8d/spring-security-crypto-5.0.6.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.9.RELEASE/e9b074f7956e9f5887f807a84f5093d2437101f6/spring-jcl-5.0.9.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.9.RELEASE/bc3b5aaae53f0bc03647e53ecbd98a05b47a4e90/spring-jcl-5.0.9.RELEASE.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr-match/0.10.0/b0920c2741c986951a96882f1e1be88d79876578/vavr-match-0.10.0-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.vavr/vavr-match/0.10.0/2088877806b1c07514a134fa10d6a7ad480cac70/vavr-match-0.10.0.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>

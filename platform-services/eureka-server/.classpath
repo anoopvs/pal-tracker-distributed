@@ -20,12 +20,12 @@
 	</classpathentry>
 	<classpathentry kind="output" path="bin/default"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-server/2.0.2.RELEASE/33557efd92be695893728839b53eb5a9bc6dc185/spring-cloud-starter-netflix-eureka-server-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-server/2.0.2.RELEASE/7fe43496eedb1bc108bb45685dfd86d6b695241c/spring-cloud-starter-netflix-eureka-server-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-server/2.0.0.RELEASE/1551b6469aec66491277ca994e3539266307ac88/spring-cloud-starter-netflix-eureka-server-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-eureka-server/2.0.0.RELEASE/a92cd6d723be3a26c976d2fc9cc8ef3a50c4c7f9/spring-cloud-starter-netflix-eureka-server-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/2.0.2.RELEASE/a442eedd6e5958555249f666925450254280cb1c/spring-cloud-netflix-eureka-server-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/2.0.2.RELEASE/d0d67ffd73f1e0a04ba5a96ba31bb207456a8958/spring-cloud-netflix-eureka-server-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/2.0.0.RELEASE/7effacb5facc0cacb9e047cbe5f2cee69e1b12f8/spring-cloud-netflix-eureka-server-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-server/2.0.0.RELEASE/f766ecce2b3d89bf479353295c463365ae225831/spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -90,17 +90,17 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.2.RELEASE/2536d12c3b2f31e66408a08a75850f411c927f81/spring-cloud-starter-netflix-ribbon-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.2.RELEASE/adde709e1140f3b60a709cc2109bea00a2f8b1e9/spring-cloud-starter-netflix-ribbon-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.RELEASE/2af9c392fcfe33493275b221663be7468f95c4dd/spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-ribbon/2.0.0.RELEASE/54551f0533b77600e8fc96dd1add232a56a6ae31/spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-archaius/2.0.2.RELEASE/dc8b1ce126072f06ed0ec978553cde3682310f77/spring-cloud-starter-netflix-archaius-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-archaius/2.0.2.RELEASE/971bb26eb0563d487a41a3745e4494e032eb0e7e/spring-cloud-starter-netflix-archaius-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-archaius/2.0.0.RELEASE/f397f16e158f57df2dca35ce66792742aaf0e3ef/spring-cloud-starter-netflix-archaius-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-archaius/2.0.0.RELEASE/a9a5b5d2e314c85cb805b17f546a2cb84f81ed4c/spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter/2.0.2.RELEASE/2f93a26a788f0ac2bed8ff55131b2c03d748bc50/spring-cloud-starter-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter/2.0.2.RELEASE/a145c38492435b6ef53c145c4ba7177de65fbb46/spring-cloud-starter-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter/2.0.0.RELEASE/5bb9f829baee4ef0b6dc25b78ad7ca152d93fa79/spring-cloud-starter-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter/2.0.0.RELEASE/247ea27d9483e9806f539f6031af135a6a3645f/spring-cloud-starter-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -110,12 +110,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-client/2.0.2.RELEASE/f0c24a931360e54ea0e154f00b709ebe06ead1d1/spring-cloud-netflix-eureka-client-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-client/2.0.2.RELEASE/7f3c2971acfd54c21abc3a8aff24a2ffce9e31bc/spring-cloud-netflix-eureka-client-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/753bb954df497207e5209167eefd51ba341a0fcc/spring-cloud-netflix-eureka-client-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/e00b09813d5d3714dbbc150b91553267124e2250/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/2.0.2.RELEASE/b0b233c1cabb3d4a4d0aa3ac96b22b6de20aee04/spring-cloud-netflix-core-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/2.0.2.RELEASE/159d63bc80209e61a273ef6d7c0aa25c8b31f072/spring-cloud-netflix-core-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/2.0.0.RELEASE/bd5f5f83d3b1a84eb10bbc1fbc5acd29492b68ec/spring-cloud-netflix-core-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/2.0.0.RELEASE/796bf4e966fac782c2118396d5504e01d5bd3115/spring-cloud-netflix-core-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -295,22 +295,22 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.2.RELEASE/347ab7f059abf2dbcba5203cfb5dfc74eb7df47c/spring-cloud-context-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.2.RELEASE/8d9ac6e1d3e0868813fcd32da377108b3de53972/spring-cloud-context-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.RELEASE/cead8359eb3e6a5839739d1ceaa210fb5b1234e0/spring-cloud-context-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.0.RELEASE/3f0d28344c0dc74eb8594f3f3dd6f82c687be198/spring-cloud-context-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.0.2.RELEASE/fa6feade7bab96e9d53f00e3459edc37dff3eade/spring-cloud-commons-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.0.2.RELEASE/9a10d873baefa48b087370dc86aa59461b258591/spring-cloud-commons-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.0.0.RELEASE/480fbe8c18209db5c4fdc710813e8b901eaefc5a/spring-cloud-commons-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.0.0.RELEASE/54ba9a1ace0a8c8e0dd0cdf30e59def4700ab854/spring-cloud-commons-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.7.RELEASE/d57e5d3237fb53cca75dc5316ca0ce9cb5e4e126/spring-security-rsa-1.0.7.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.7.RELEASE/8fb787a76b2a31b7efbb71ae9be68b269a358302/spring-security-rsa-1.0.7.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.5.RELEASE/d82b2d0012b18d466140a10ad1140aa89eba8ae4/spring-security-rsa-1.0.5.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsa/1.0.5.RELEASE/31bd1111ada2f455eb0f492ed09e39deda18ca99/spring-security-rsa-1.0.5.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.9.3/e9bd13f8d5f72f5d4581343885cfb1aa4800f113/eureka-client-1.9.3-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.9.3/9aa210eb20e2f9390e626d3e6b3dddef4d7ea8f1/eureka-client-1.9.3.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.9.2/f15e6564d5850c878c2a8dd2ac98a7e8942f09ea/eureka-client-1.9.2-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.9.2/47c0b71d8face149833c4958ac7b3b6171861f4c/eureka-client-1.9.2.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -325,7 +325,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-core/1.9.3/b2f8929e6c5f338fa3813ca96afdb27b994aa24f/eureka-core-1.9.3-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-core/1.9.3/8e134b576d2e55bd36b01d607eeea0e181f12150/eureka-core-1.9.3.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-core/1.9.2/1385e820de8e020918342129558a46404a20b8ed/eureka-core-1.9.2-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-core/1.9.2/be120b71be10caa075fefba1c71f04c28704063/eureka-core-1.9.2.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -345,12 +345,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.2.RELEASE/9b4b9d255b5c14a615ddd8feb8fe25963a0afc5f/spring-cloud-netflix-ribbon-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.2.RELEASE/2a7381a1daf06b8ac5da0779216daa8d6f871e66/spring-cloud-netflix-ribbon-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/1cc7fb9eae0de50a229ad2d49e47edda401dab30/spring-cloud-netflix-ribbon-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.0.0.RELEASE/e4e1c06a1cb5d335404d5d016768b7a54726eb57/spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.2.RELEASE/e7e2d18fbbd4d8273b256dfd40761ebe85427996/spring-cloud-netflix-archaius-2.0.2.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.2.RELEASE/850f375325b47b8a331e29ccf9a7d8270f8a2361/spring-cloud-netflix-archaius-2.0.2.RELEASE.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.RELEASE/3c4223d2f6cef1bc6c2a2918dca0b46aa773097b/spring-cloud-netflix-archaius-2.0.0.RELEASE-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-archaius/2.0.0.RELEASE/ba86a26ef23ff32194d521dcf8d7d4f2b5b61454/spring-cloud-netflix-archaius-2.0.0.RELEASE.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -395,7 +395,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.60/a25f041293f401af08efba63ff4bbdce98134a03/bcpkix-jdk15on-1.60-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.60/d0c46320fbc07be3a24eb13a56cee4e3d38e0c75/bcpkix-jdk15on-1.60.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/118b4633c59394749b2b2f278138beb31c930663/bcpkix-jdk15on-1.56-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/4648af70268b6fdb24674fb1fd7c1fcc73db1231/bcpkix-jdk15on-1.56.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -450,7 +450,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.60/7c57a4d13fe53d9abb967bba600dd0b293dafd6a/bcprov-jdk15on-1.60-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.60/bd47ad3bd14b8e82595c7adaa143501e60842a84/bcprov-jdk15on-1.60.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.56/93c7b191596378df51c31b7d8717f71b0aeee53c/bcprov-jdk15on-1.56-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.56/a153c6f9744a3e9dd6feab5e210e1c9861362ec7/bcprov-jdk15on-1.56.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -490,32 +490,32 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ec2/1.11.415/aab418b3a9eda3d0e19ed335a46f1ba5249d3ce4/aws-java-sdk-ec2-1.11.415-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ec2/1.11.415/6096c29f4ed6aaaa545334c36d1960f3ca52f6d8/aws-java-sdk-ec2-1.11.415.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ec2/1.11.336/79163024a8755fb1563c74e7cf2bc91439f1223e/aws-java-sdk-ec2-1.11.336-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-ec2/1.11.336/72113ebc397efd44a8911cccbfe0f6bcdb29392f/aws-java-sdk-ec2-1.11.336.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscaling/1.11.415/b9688a58e6f465cfab45b4fb94f1fbf3509acc6e/aws-java-sdk-autoscaling-1.11.415-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscaling/1.11.415/b1cc5551fca72fd19c916ffcba4683f408ba579f/aws-java-sdk-autoscaling-1.11.415.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscaling/1.11.336/cd254d6235669eda1ba4ce7b7b05bcc2ec7870bb/aws-java-sdk-autoscaling-1.11.336-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-autoscaling/1.11.336/edf31451f288d342020f47579d620824f0883828/aws-java-sdk-autoscaling-1.11.336.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sts/1.11.415/5208b0ec156db8e7fea263517259779a8fd1ef19/aws-java-sdk-sts-1.11.415-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sts/1.11.415/ed8a29fb016f313978a83330b8a35e6e6d40079/aws-java-sdk-sts-1.11.415.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sts/1.11.336/87be804d5c2160c711aef42c6ad209cb6371319c/aws-java-sdk-sts-1.11.336-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-sts/1.11.336/dc2ddc387c60592aa35ed708ef1f52a25da75bbd/aws-java-sdk-sts-1.11.336.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53/1.11.415/7a8d363aa3d84c74151b70d84ff570e017ff83e8/aws-java-sdk-route53-1.11.415-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53/1.11.415/8e0e8b2f3005bf868a40d74d5bc59075ce456b23/aws-java-sdk-route53-1.11.415.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53/1.11.336/1cda3df71328b274775f7168d44f3ceca3037231/aws-java-sdk-route53-1.11.336-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-route53/1.11.336/b2451cb26b457fdb9e5d418b14519d87d2279673/aws-java-sdk-route53-1.11.336.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.415/ec4e5926c74157770b5dcc5959f3aa5bc78d1771/aws-java-sdk-core-1.11.415-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.415/9e9bd0bfd6173dbe603ef3a386a3b604f62b06d2/aws-java-sdk-core-1.11.415.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.336/4f5641cedcb5131fa8fd9d787be7370571968b46/aws-java-sdk-core-1.11.336-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.336/843b0108a4a0d437182c3b155cda229d78c66c47/aws-java-sdk-core-1.11.336.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.415/d8b67d70fb5c5ba61b6423ebbabb838dc1043687/jmespath-java-1.11.415-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.415/9331fc5c6ee158395303d326d4deda1a4a2a409f/jmespath-java-1.11.415.jar">
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.336/b9b530ff73a2dda6239e31c1f2aaa5493157cdf7/jmespath-java-1.11.336-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.336/2ffaab56cec055a6e63aeb569d69fead74261dc5/jmespath-java-1.11.336.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -660,6 +660,16 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.29.Final/e4d5c8ff49844b2ddc32b93f9bf3743b996eab4a/netty-codec-http-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.29.Final/454688b88cea27a4d407202d1fc79a6522345b5e/netty-codec-http-4.1.29.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.29.Final/20a585c510a34f5dbf8ff340a89eeff0e6b364c7/netty-transport-native-epoll-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.29.Final/baca9c954b45c495c7caf328abfac49679d90ce8/netty-transport-native-epoll-4.1.29.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/commons-jxpath/commons-jxpath/1.3/8635d6b633d632d5aad1924fb0dc767b4527689/commons-jxpath-1.3-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/commons-jxpath/commons-jxpath/1.3/c22d7d0f0f40eb7059a23cfa61773a416768b137/commons-jxpath-1.3.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
@@ -671,6 +681,36 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.29.Final/a422f98ea0ca278de502e43ed80e56dee65bb4ad/netty-codec-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.29.Final/1651bc2e279216773c234cafe402d68d2a5adc90/netty-codec-4.1.29.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.29.Final/d41b2b59ea01ab4a0f702ce057afc3f31c0ba57/netty-transport-native-unix-common-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.29.Final/9c9f88ca57873b3c00489ae74fb80bb0cd02d986/netty-transport-native-unix-common-4.1.29.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.29.Final/e3bc3e4551ed442348e1ce430cd32d01c0b31bcb/netty-transport-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.29.Final/c190b90f70e2ae8a48c068afad709e8728fcaa39/netty-transport-4.1.29.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.29.Final/c47b88a34c25e064a9edf1289037f2ad6ae0034d/netty-buffer-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.29.Final/c3809f72e4b535b343b7dfa3c0c8210dad2fa5ea/netty-buffer-4.1.29.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.29.Final/689f61915b957ad2633ac91212e288b522710889/netty-resolver-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.29.Final/bbec1dc913732e4773893c14d795b15d6c1e878e/netty-resolver-4.1.29.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.29.Final/510fd5cf26024b39da89fb614e13f85a078a32e2/netty-common-4.1.29.Final-sources.jar" kind="lib" path="C:/Users/456482/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.29.Final/a5d6a735ed07d8f197daa48db7f097cfc971ee5e/netty-common-4.1.29.Final.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
