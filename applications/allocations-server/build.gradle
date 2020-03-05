@@ -2,4 +2,8 @@ apply from: "$projectDir/../server.gradle"
 
 dependencies {
     compile project(":components:allocations")
+    compile "org.springframework.cloud:spring-cloud-starter-netflix-hystrix:$springCloudCommonsVersion"
+    compile "io.pivotal.spring.cloud:spring-cloud-services-dependencies:$springCloudServicesClientLibrariesVersion"
+	// https://mvnrepository.com/artifact/org.springframework.security/spring-security-core
+	compile "org.springframework.security:spring-security-config:$springVersion"
 }
