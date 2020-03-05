@@ -21,3 +21,9 @@ dependencies {
 	compile "io.pivotal.spring.cloud:spring-cloud-services-dependencies:$springCloudServicesClientLibrariesVersion"
 	compile "org.springframework.security:spring-security-config:$springVersion"
 }
+bootRun.environment([
+    "APPLICATION_OAUTH_ENABLED": false,
+    "SECURITY_OAUTH2_CLIENT_CLIENT_ID": "tracker-client",
+    "SECURITY_OAUTH2_CLIENT_CLIENT_SECRET": "supersecret",
+    "EUREKA_CLIENT_OAUTH2_CLIENTID": "eureka-client"
+])
