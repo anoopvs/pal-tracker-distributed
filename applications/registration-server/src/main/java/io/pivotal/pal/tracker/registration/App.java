@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter;
 
@@ -22,24 +21,23 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.R
     "io.pivotal.pal.tracker.registration"
 })
 @EnableEurekaClient
-@Configuration
 public class App {
     public static void main(String[] args) {
         TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
         SpringApplication.run(App.class, args);
     }
     
-    @Bean
-    @ConditionalOnProperty(value = "application.oauth-enabled", havingValue = "false")
-    public ResourceServerConfigurerAdapter resourceServerConfigurerAdapterTest(){
-    	System.err.println("resourceServerConfigurerAdapterTest>>>>");
-    	return new NoOauthResourceServerConfig();
-    }
-    
-    @Bean
-    @ConditionalOnProperty(value = "application.oauth-enabled", matchIfMissing = true)
-    public ResourceServerConfigurerAdapter resourceServerConfigurerAdapterCloud(){
-    	System.err.println("resourceServerConfigurerAdapterCloud>>>>");
-    	return new OauthResourceServerConfig();
-    }
+//    @Bean
+//    @ConditionalOnProperty(value = "application.oauth-enabled", havingValue = "false")
+//    public ResourceServerConfigurerAdapter resourceServerConfigurerAdapterTest(){
+//    	System.err.println("resourceServerConfigurerAdapterTest>>>>");
+//    	return new NoOauthResourceServerConfig();
+//    }
+//    
+//    @Bean
+//    @ConditionalOnProperty(value = "application.oauth-enabled", matchIfMissing = true)
+//    public ResourceServerConfigurerAdapter resourceServerConfigurerAdapterCloud(){
+//    	System.err.println("resourceServerConfigurerAdapterCloud>>>>");
+//    	return new OauthResourceServerConfig();
+//    }
 }
