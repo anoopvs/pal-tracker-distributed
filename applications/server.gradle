@@ -25,7 +25,7 @@ dependencies {
 }
 
 bootRun.environment([
-    "APPLICATION_OAUTH_ENABLED": true,
+    "APPLICATION_OAUTH-ENABLED": true,
     "SECURITY_OAUTH2_CLIENT_CLIENT_ID": "tracker-client",
     "SECURITY_OAUTH2_CLIENT_CLIENT_SECRET": "supersecret"
 ])
