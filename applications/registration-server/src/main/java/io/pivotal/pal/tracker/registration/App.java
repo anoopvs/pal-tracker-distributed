@@ -32,12 +32,14 @@ public class App {
     @Bean
     @ConditionalOnProperty(value = "application.oauth-enabled", havingValue = "false")
     public ResourceServerConfigurerAdapter resourceServerConfigurerAdapterTest(){
+    	System.err.println("resourceServerConfigurerAdapterTest>>>>");
     	return new NoOauthResourceServerConfig();
     }
     
     @Bean
     @ConditionalOnProperty(value = "application.oauth-enabled", matchIfMissing = true)
     public ResourceServerConfigurerAdapter resourceServerConfigurerAdapterCloud(){
+    	System.err.println("resourceServerConfigurerAdapterCloud>>>>");
     	return new OauthResourceServerConfig();
     }
 }

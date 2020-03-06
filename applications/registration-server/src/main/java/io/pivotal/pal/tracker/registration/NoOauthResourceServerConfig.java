@@ -8,8 +8,13 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.R
 @Configuration
 @ConditionalOnProperty(value = "application.oauth-enabled", havingValue = "false")
 public class NoOauthResourceServerConfig extends ResourceServerConfigurerAdapter {
+	
+    public NoOauthResourceServerConfig() {
+		super();
+		System.err.println("NoOauthResourceServerConfig CTR>>>>");
+	}
 
-    @Override
+	@Override
     public void configure(HttpSecurity http) throws Exception {
         http
         .authorizeRequests()
