@@ -21,7 +21,9 @@ public class OauthResourceServerConfig extends WebSecurityConfigurerAdapter {
     public void configure(HttpSecurity http) throws Exception {
         // enforce authentication on our API endpoints.
         http.authorizeRequests().anyRequest().authenticated();
-    }
+        http.exceptionHandling()
+        .authenticationEntryPoint(new MyAuthenticationEntryPoint());
+  }
 
 //    @Override
 //    public void configure(ResourceServerSecurityConfigurer resources) throws Exception {
