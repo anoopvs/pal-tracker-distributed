@@ -22,10 +22,10 @@ public class ApplicationServer {
 
 	public void start(Map<String, String> env) throws IOException, InterruptedException {
 		ProcessBuilder processBuilder = new ProcessBuilder().command("java", "-jar", jarPath).inheritIO();
-
+		System.setProperty("application.oauth-enabled", "false");
 		processBuilder.environment().put("SERVER_PORT", port);
 		env.forEach((key, value) -> processBuilder.environment().put(key, value));
-
+		processBuilder.environment().put("application.oauth-enabled", "false");
 		serverProcess = processBuilder.start();
 	}
 
