@@ -23,7 +23,6 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.R
     "io.pivotal.pal.tracker.registration"
 })
 @EnableEurekaClient
-@EnableOAuth2Client
 @EnableResourceServer
 public class App {
     public static void main(String[] args) {
